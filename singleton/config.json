@@ -1,0 +1,9 @@
+{
+  "log_level": "info",
+  "payments_provider": "stripe",
+  "max_retries": 3,
+  "features": {
+    "new_checkout": false,
+    "dark_mode": false
+  }
+}
