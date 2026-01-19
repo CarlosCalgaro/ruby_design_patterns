@@ -1,7 +1,6 @@
 require "minitest/autorun"
 require_relative "implementation"
 require 'tempfile'
-require 'pry'
 
 class ConfigTest < Minitest::Test
   def setup
